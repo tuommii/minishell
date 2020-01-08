@@ -1,0 +1,5 @@
+*.o
+obj
+minishell
+a.out
+test/a.out

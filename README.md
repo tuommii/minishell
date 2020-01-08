@@ -17,7 +17,7 @@ And it can also run all binaries found in PATH.
 
 ## Test it
 
-You can test sample main by running these commands in project root:
+You can test it by running these commands in project root:
 
 ```bash
 make

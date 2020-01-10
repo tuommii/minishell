@@ -1,6 +1,8 @@
 
 # Minishell - Small shell
 <img src="https://github.com/tuommii/minishell/blob/master/MIA.png" width="300">
+
+
 Little shell that has following builtins:
 * cd
 * echo

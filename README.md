@@ -1,17 +1,14 @@
 
-# Minishell - Small shell
+# Minishell
 <img src="https://github.com/tuommii/minishell/blob/master/MIA.png" width="300">
 
-
-Little shell that has following builtins:
+Little UNIX command interpreter. Handles PATH managment and ```$``` ```~``` expansions. Has following builtins:
 * cd
 * echo
 * setenv
 * unsetenv
 * env
 * exit
-
-And it can also run all binaries found in PATH.
 
 [Subject](https://github.com/tuommii/hive_subjects/blob/master/minishell.en.pdf)
 
